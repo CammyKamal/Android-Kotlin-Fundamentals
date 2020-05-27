@@ -32,7 +32,22 @@ In order to test different **Android Kotlin Fundamental Examples** in this sampl
 2. Main Dashboard screen will be launched which will contain list of All the examples in CodeLab
 3. Click on Any of the list item to view the Output of the CodeLab Example Output
 
-## Kotlin
+## Android Components Used In the Repository
+1. **Data Binding**
+2. **LiveData**
+3. **Navigation**
+4. **ViewModel**
+5. **ViewModelFactory**
+6. **RecyclerView**
+7. **Room**
+
+## 3rd Party Integration's
+1. **Glide**
+2. **Retrofit**
+3. **Moshi**
+4. **Timber**
+
+## Language Used => Kotlin
 Kotlin is a **cross-platform**, **statically typed**, **general-purpose** programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of its standard library depends on the Java Class Library, but type inference allows its syntax to be more concise.
 
 Android mobile development has been **Kotlin-first** since **Google I/O in 2019**.
@@ -51,20 +66,7 @@ Gradle is an open-source build automation system that builds upon the concepts o
 
 In this project **Gradle Plugin** Version is: **3.6.2**
 
-## Android Components Used In the Repository
-1. **Data Binding**
-2. **LiveData**
-3. **Navigation**
-4. **ViewModel**
-5. **ViewModelFactory**
-6. **RecyclerView**
-7. **Room**
 
-## 3rd Party Integration's
-1. **Glide**
-2. **Retrofit**
-3. **Moshi**
-4. **Timber**
 
 
 
