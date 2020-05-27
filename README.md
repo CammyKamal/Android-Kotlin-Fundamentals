@@ -16,30 +16,30 @@ This Repository contains a ApplicationDashboard Activity contains list of all th
 
 
 ## Examples Covered
-1. **Build your first app** 
-2. **Layouts** 
-3. **Navigation** 
-4. **Activity and fragment lifecycles** 
-5. **Architecture components**
-6. **Room database and coroutines**  
-7. **RecyclerView**
-8. **Connecting to the internet**
-9. **Repository**
+1. Build your first app 
+2. Layouts 
+3. Navigation
+4. Activity and fragment lifecycles
+5. Architecture components
+6. Room database and coroutines 
+7. RecyclerView
+8. Connecting to the internet
+9. Repository
 
 ## Android Components Used
-1. **Data Binding**
-2. **LiveData**
-3. **Navigation**
-4. **ViewModel**
-5. **ViewModelFactory**
-6. **RecyclerView**
-7. **Room**
+1. Data Binding
+2. LiveData
+3. Navigation
+4. ViewModel
+5. ViewModelFactory
+6. RecyclerView
+7. Room
 
 ## 3rd Party Integration's
-1. **Glide**
-2. **Retrofit**
-3. **Moshi**
-4. **Timber**
+1. Glide
+2. Retrofit
+3. Moshi
+4. Timber
 
 ## Testing Examples
 In order to test different **Android Kotlin Fundamental Examples** in this sample **Android Studio** project follow below steps:
