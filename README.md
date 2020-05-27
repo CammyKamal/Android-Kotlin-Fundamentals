@@ -12,7 +12,7 @@ This Repository contains a ApplicationDashboard Activity contains list of all th
 <img src="images/project_structure.png" width="300" height="400"/>
 
 ## Project Structure
-<img src="images/project_structure.png" width="300" height="400"/>
+<img src="images/app_screen.png" width="300" height="400"/>
 
 
 ## Examples Covered
