@@ -26,12 +26,6 @@ This Repository contains a ApplicationDashboard Activity contains list of all th
 8. **Connecting to the internet**
 9. **Repository**
 
-## Testing Examples
-In order to test different **Android Kotlin Fundamental Examples** in this sample **Android Studio** project follow below steps:
-1. Run the App
-2. Main Dashboard screen will be launched which will contain list of All the examples in CodeLab
-3. Click on Any of the list item to view the Output of the CodeLab Example Output
-
 ## Android Components Used In the Repository
 1. **Data Binding**
 2. **LiveData**
@@ -46,6 +40,12 @@ In order to test different **Android Kotlin Fundamental Examples** in this sampl
 2. **Retrofit**
 3. **Moshi**
 4. **Timber**
+
+## Testing Examples
+In order to test different **Android Kotlin Fundamental Examples** in this sample **Android Studio** project follow below steps:
+1. Run the App
+2. Main Dashboard screen will be launched which will contain list of All the examples in CodeLab
+3. Click on Any of the list item to view the Output of the CodeLab Example Output
 
 ## Language Used => Kotlin
 Kotlin is a **cross-platform**, **statically typed**, **general-purpose** programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of its standard library depends on the Java Class Library, but type inference allows its syntax to be more concise.
