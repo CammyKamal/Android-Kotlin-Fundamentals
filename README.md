@@ -15,7 +15,7 @@ This Repository contains a ApplicationDashboard Activity contains list of all th
 <img src="images/project_structure.png" width="300" height="400"/>
 
 
-## Topics and Examples Covered in the sample project are:
+## Examples Covered
 1. **Build your first app** 
 2. **Layouts** 
 3. **Navigation** 
@@ -26,7 +26,7 @@ This Repository contains a ApplicationDashboard Activity contains list of all th
 8. **Connecting to the internet**
 9. **Repository**
 
-## Android Components Used In the Repository
+## Android Components Used
 1. **Data Binding**
 2. **LiveData**
 3. **Navigation**
