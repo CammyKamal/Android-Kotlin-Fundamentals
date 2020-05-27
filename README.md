@@ -8,7 +8,7 @@ You can view the full details of this program here -: [Android Kotlin Fundamenta
 ## Highlight For Repository
 This Repository contains a ApplicationDashboard Activity contains list of all the examples in Android-Kotlin-Fundamentals CodeLab which you can view just by clicking on them. 
 
-**Below is the screenshot of same**
+## Navigator Activity ScreenShot
 <img src="images/project_structure.png" width="300" height="400"/>
 
 ## Project Structure
